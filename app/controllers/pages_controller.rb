@@ -2,6 +2,6 @@ class PagesController < ApplicationController
   def home
   end
 
-  def abouut
+  def about
   end
 end
